@@ -1,16 +1,16 @@
-![techhub-blog](./banner.png)
+![tech-blog](./banner.png)
 
-# TechHub-Blog
+# Tech-Blog
 
-A complete blog website created with `JAMstack`. ([Gatsby.js](https://www.gatsbyjs.org/) & [Sanity.io](https://sanity.io)).
+A complete blog website
 
-**Live Preview: [http://techhub-blog.vercel.app/][preview]**
 
-**YouTube Tutorial: [🔗Playlist][project-playlist]**
 
-### Made with ❤️ by [Shaif Arfan][arfan-ig]
 
-Like my works and want to support me?
+
+### Made with ❤️ by [Abhishek Kumar]
+
+
 
 <a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
